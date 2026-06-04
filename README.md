@@ -1,2 +1,2 @@
 # cpp
-The projects I made along the way while learning c++
+The projects I made while learning c++
